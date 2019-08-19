@@ -1,3 +1,3 @@
 # jetbrains
 Eliminar contador evaluación ides jetbrains
-GoLang
+Intellij IDEA y GoLang
